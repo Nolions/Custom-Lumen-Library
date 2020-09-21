@@ -1,0 +1,12 @@
+{
+    "name": "nolions/hello-word",
+    "description": "first lumen package",
+    "authors": [
+        {
+            "name": "Nolions",
+            "email": "lv2410@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

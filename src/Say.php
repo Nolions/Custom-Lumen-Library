@@ -1,0 +1,1 @@
+<?phpnamespace Nolions\HelloWord;final class Say{    const helloWord = "HelloWord, This is first lumen package";}
